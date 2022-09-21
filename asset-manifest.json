@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ideareactcarabajal/static/css/main.6fda5979.css",
-    "main.js": "/ideareactcarabajal/static/js/main.cb9b8df8.js",
+    "main.css": "/ideareactcarabajal/static/css/main.6c813165.css",
+    "main.js": "/ideareactcarabajal/static/js/main.52e9a2fb.js",
     "static/js/787.66d728a3.chunk.js": "/ideareactcarabajal/static/js/787.66d728a3.chunk.js",
     "index.html": "/ideareactcarabajal/index.html",
-    "main.6fda5979.css.map": "/ideareactcarabajal/static/css/main.6fda5979.css.map",
-    "main.cb9b8df8.js.map": "/ideareactcarabajal/static/js/main.cb9b8df8.js.map",
+    "main.6c813165.css.map": "/ideareactcarabajal/static/css/main.6c813165.css.map",
+    "main.52e9a2fb.js.map": "/ideareactcarabajal/static/js/main.52e9a2fb.js.map",
     "787.66d728a3.chunk.js.map": "/ideareactcarabajal/static/js/787.66d728a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fda5979.css",
-    "static/js/main.cb9b8df8.js"
+    "static/css/main.6c813165.css",
+    "static/js/main.52e9a2fb.js"
   ]
 }
