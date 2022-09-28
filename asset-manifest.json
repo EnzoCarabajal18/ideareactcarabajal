@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ideareactcarabajal/static/css/main.29cd549e.css",
-    "main.js": "/ideareactcarabajal/static/js/main.c6446eb8.js",
+    "main.js": "/ideareactcarabajal/static/js/main.30077ba7.js",
     "index.html": "/ideareactcarabajal/index.html",
     "main.29cd549e.css.map": "/ideareactcarabajal/static/css/main.29cd549e.css.map",
-    "main.c6446eb8.js.map": "/ideareactcarabajal/static/js/main.c6446eb8.js.map"
+    "main.30077ba7.js.map": "/ideareactcarabajal/static/js/main.30077ba7.js.map"
   },
   "entrypoints": [
     "static/css/main.29cd549e.css",
-    "static/js/main.c6446eb8.js"
+    "static/js/main.30077ba7.js"
   ]
 }
